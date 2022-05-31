@@ -1,2 +1,2 @@
 # requirements.tst
-snowflake-connnector-python
+snowflake-connector-python
